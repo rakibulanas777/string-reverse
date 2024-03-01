@@ -1,0 +1,11 @@
+{
+  "name": "string-reverse-777",
+  "version": "1.0.0",
+  "description": "It is a string reverse function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
